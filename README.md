@@ -20,6 +20,9 @@
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
   [vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/17491)
+  [UnrealIRCd 3.x - Remote Denial of Service](https://www.exploit-db.com/exploits/27407)
+  [UnrealIRCd 3.2.8.1 - Backdoor Command Execution](https://www.exploit-db.com/exploits/16922)
+  
   
 *Приведите ответ в свободной форме.*  
 
